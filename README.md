@@ -8,7 +8,7 @@
 
 ### Process 
 
-In this project, I will build a financial advisor agent using Amazon Bedrockt that reads your spending data, categorizes expenses, calculates budgets, and generates visual charts, all through natural language conversation.
+In this project, I  built a financial advisor agent using Amazon Bedrock that reads your spending data, categorizes expenses, calculates budgets, and generates visual charts, all through natural language conversation.
 
 ### Key services and concepts
 
